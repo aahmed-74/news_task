@@ -7,6 +7,35 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# 📰 Laravel News Management System
+
+This project is a simple news management system built with Laravel.
+This project features a fully functional admin panel for creating, editing, and deleting both news categories and articles. On the frontend, users can explore news sorted into categories through a clean, folder-style layout.
+
+---
+
+---
+
+## 🚀 Features
+
+### 🔐 Admin Panel
+- CRUD for news categories (e.g. Politics, Sports, Technology)
+- CRUD for news items
+- Each news item can belong to multiple categories
+
+### 🌍 Frontend
+- Folder view of all categories
+- Fully responsive UI using Bootstrap
+
+### 🧰 Tech Stack
+- Laravel (PHP framework)
+- MySQL (database)
+- HTML, CSS, Bootstrap
+- Git
+- Linux
+
+---
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
